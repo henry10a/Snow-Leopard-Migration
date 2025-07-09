@@ -69,7 +69,7 @@ md\n<!-- fetch-private: https://https://violot-beluga.web.app/ -->\n
 
 ## 🌐 Context
 
-This model is purely educational and uses dummy data. With real GPS-tagged or ranger-reported data, it can be extended to inform conservation strategy and migration pattern tracking.
+This model is for educational purposes. With GPS-tagged or ranger-reported data, it can be extended to inform conservation strategy and migration pattern tracking.
 
 ---
 
