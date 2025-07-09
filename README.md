@@ -17,7 +17,7 @@ This project uses stochastic calculus (specifically geometric Brownian motion) t
 
 - `main.py` – Main script that loads data, runs analysis, and visualizes predictions
 - `stochastic_utils.py` – Contains GBM simulation logic
-- `data.csv` – Dummy dataset simulating snow leopard sightings by region
+- `data.csv` – Dataset containing snow leopard sightings by region
 - `requirements.txt` – Python dependencies
 
 ---
@@ -75,4 +75,4 @@ This model is purely educational and uses dummy data. With real GPS-tagged or ra
 
 ## 📄 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 Henry
